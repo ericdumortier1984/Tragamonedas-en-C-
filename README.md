@@ -1,1 +1,1 @@
-# Tragamonedas-en-C-
+# Tragamonedas en C++
